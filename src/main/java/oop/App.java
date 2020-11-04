@@ -37,5 +37,14 @@ public class App
         System.out.println("Surface Area of soda can = " + area);
         System.out.printf("Surface Area of soda can = %.2f \n" , area);
 
+//Additional TODOs from
+        //TODO 1.Declare and populate an arraylist of 5 soda-cans in App.java
+        //TODO 2.Display the details of all soda-cans -> code this as a method
+        //TODO 3.Display total volume of all soda-cans -> making use of appropriate method
+        //TODO 4.Determine how many of the soda-cans have surface area greater than certain size
+
+
+
+
     }
 }

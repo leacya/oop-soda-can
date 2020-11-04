@@ -5,7 +5,7 @@ public class SodaCan
 
     //TODO
     // see P8.5 for class requirements
-//    Formula:
+//    Formulae:
 //    https://www.calculatorsoup.com/calculators/geometry-solids/cylinder.php
 
     private double height;
